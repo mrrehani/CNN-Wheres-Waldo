@@ -1,2 +1,3 @@
-# CNN-Wheres-Waldo
-In this project, we aim to solve the popular puzzle game “Where’s Waldo?” using a neural network program. Specifically, we will use Convolutional Neural Networks to create an image recognition algorithm that is capable of differentiating between images that contain the titular character Waldo and ones that do not.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de6854f96934c7c4999c38cf838b8f80fe7881ccaccb7472474586deda3883e4
+size 341
