@@ -1,5 +1,5 @@
 # CNN-Wheres-Waldo
-![Contributors](https://img.shields.io/badge/Contributors-Michael%20Rehani-brightgreen)
+![Contributors](https://img.shields.io/badge/Contributors-Michael%20Rehani%2C%20Eric%20Gjerd%2C%20Kevin%20Hutchins-brightgreen)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![Licence](https://img.shields.io/github/license/mrrehani/CNN-Wheres-Waldo)
 ![Size](https://img.shields.io/github/repo-size/mrrehani/CNN-Wheres-Waldo)
@@ -25,4 +25,4 @@ In this project, we aim to solve the popular puzzle game “Where’s Waldo?” 
 - Run the all the cells
 
 ### Credits
-The original source of the data can be found [here](https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data).
+The original source of the data can be found [here](https://github.com/vc1492a/Hey-Waldo).
