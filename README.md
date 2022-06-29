@@ -1,6 +1,5 @@
 # CNN-Wheres-Waldo
 ![Contributors](https://img.shields.io/badge/Contributors-Michael%20Rehani%2C%20Eric%20Gjerd%2C%20Kevin%20Hutchins-brightgreen)
-![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![Licence](https://img.shields.io/github/license/mrrehani/CNN-Wheres-Waldo)
 ![Size](https://img.shields.io/github/repo-size/mrrehani/CNN-Wheres-Waldo)
 <br>
