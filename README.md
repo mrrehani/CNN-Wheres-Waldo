@@ -24,4 +24,4 @@ In this project, we aim to solve the popular puzzle game “Where’s Waldo?” 
 - Run the all the cells
 
 ### Credits
-The original source of the data can be found [here](https://github.com/vc1492a/Hey-Waldo).
+The original source of the data can be found [here](https://github.com/vc1492a/Hey-Waldo). 
